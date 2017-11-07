@@ -1,0 +1,30 @@
+:local .example {
+  font-family: 'Helvetica', Arial, sans-serif;
+  width: 600px;
+  margin: 40px auto;
+  color: #333;
+}
+
+:local .example a {
+  text-decoration: none;
+  color: #f66;
+}
+
+:local .example h1 {
+  font-size: 1.5em;
+  margin: 40px;
+}
+
+:local .example li {
+  line-height: 1.5em;
+  margin-bottom: 20px;
+}
+
+:local .example p {
+  margin: 10px;
+  color: #42B983;
+}
+
+:local .author, :local .date {
+  font-weight: bold;
+}
