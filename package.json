@@ -1,7 +1,6 @@
 {
-  "name": "webpack-demo",
-  "version": "1.0.0",
-  "license": "MIT",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
@@ -10,7 +9,7 @@
   },
   "dependencies": {
     "angular": "1.6.6",
-    "angular-ui-router": "^1.0.3"
+    "@uirouter/angularjs": "^1.0.3"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
